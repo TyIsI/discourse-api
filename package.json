@@ -2,7 +2,7 @@
   "author": "Jason Reynolds",
   "name": "discourse-api-updated",
   "description": "A simple Node wrapper for the Discourse API, updated dependencies by Florian Humer",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "repository": "https://github.com/soudis/discourse-api",
   "private": false,
   "scripts": {
